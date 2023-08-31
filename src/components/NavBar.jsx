@@ -35,6 +35,8 @@ const NavBar = () => {
     px-4 text-white bg-black fixed">
 
 
+        <div>
+        </div>
         <ul className="hidden md:flex">
         {links.map(({id, link}) => (
         <li key={id} className="px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-200">
