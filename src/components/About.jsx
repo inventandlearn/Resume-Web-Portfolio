@@ -21,18 +21,18 @@ const About = () => {
         </div>
 
         <p className="text-xl">
-            Motivated DevOps Engineer with over a year of hands-on experience in implementing DevOps practices and technologies.
-            During this time, I have actively pursued personal projects, a robust bootcamp, and self-guided learning to gain a good
+            As a motivated DevOps Engineer with over a year of hands-on experience in implementing DevOps practices and technologies,
+            the focus has been on actively pursuing personal projects, a robust bootcamp, and self-guided learning to gain a solid
             foundation in software development, infrastructure automation, and CI/CD pipelines.
         </p>
 
         <br />
 
         <p className="text-xl">
-            With a solid understanding of cloud platforms, configuration management, and containerization, I am eager to apply my knowledge and skills to drive efficiency
-            and collaboration within development and operations teams. As a continuous learner, I am passionate about exploring emerging
-            technologies and best practices to stay at the forefront of the DevOps landscape. I am now seeking an opportunity to contribute
-            my expertise and grow professionally in a collaborative and innovative environment.
+            With a solid grasp of cloud platforms, configuration management, and containerization, the focus is on applying this knowledge
+            and expertise to enhance efficiency and foster collaboration within development and operations teams. Dedicated to learning and
+            exploring emerging technologies and best practices, the focus is on staying at the forefront of the DevOps landscape. The current
+            objective is to seek opportunities to contribute expertise and nurture professional growth within a collaborative and innovative environment.
         </p>
       </div>
     </div>
