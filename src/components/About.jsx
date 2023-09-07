@@ -30,7 +30,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-            My unwavering dedication to learning and exploring emerging technologies and best practices drives a commitment to staying at the forefront of the dynamic DevOps landscape.
+            My unwavering dedication to learning and exploring emerging technologies and best practices drives me to staying at the cutting edge of the dynamic DevOps landscape.
             Presently, the goal is to identify opportunities to contribute expertise and nurture professional growth within a collaborative and innovative environment.
         </p>
       </div>
