@@ -22,17 +22,16 @@ const About = () => {
 
         <p className="text-xl">
             As a motivated DevOps Engineer with over a year of hands-on experience in implementing DevOps practices and technologies,
-            the focus has been on actively pursuing personal projects, a robust bootcamp, and self-guided learning to gain a solid
-            foundation in software development, infrastructure automation, and CI/CD pipelines.
+            a strong foundation in software development, infrastructure automation, and CI/CD pipelines has been diligently cultivated
+            through personal projects, a robust bootcamp, and self-guided learning. This proficiency extends to cloud platforms, configuration
+            management, and containerization, all leveraged to facilitate smooth code integration and promote collaboration within development and operations teams.
         </p>
 
         <br />
 
         <p className="text-xl">
-            With a solid grasp of cloud platforms, configuration management, and containerization, the focus is on applying this knowledge
-            and expertise to enhance efficiency and foster collaboration within development and operations teams. Dedicated to learning and
-            exploring emerging technologies and best practices, the focus is on staying at the forefront of the DevOps landscape. The current
-            objective is to seek opportunities to contribute expertise and nurture professional growth within a collaborative and innovative environment.
+            My unwavering dedication to learning and exploring emerging technologies and best practices drives a commitment to staying at the forefront of the dynamic DevOps landscape.
+            Presently, the goal is to identify opportunities to contribute expertise and nurture professional growth within a collaborative and innovative environment.
         </p>
       </div>
     </div>
