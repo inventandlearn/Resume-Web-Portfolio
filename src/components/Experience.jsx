@@ -21,6 +21,7 @@ import terraform from '../assets/terraform.png'
 import tailwind from '../assets/tailwind.png'
 import github from '../assets/github.png'
 import django from '../assets/django.png'
+import gitlab from '../assets/gitlab.jpg'
 
 const Experience = () => {
 
@@ -157,6 +158,12 @@ const tech = [
         src: django,
         title: 'Django',
         style: 'shadow-red-500',
+    },
+    {
+        id: 23,
+        src: gitlab,
+        title: 'GitLab',
+        style: 'shadow-orange-500',
     },
 ]
 
