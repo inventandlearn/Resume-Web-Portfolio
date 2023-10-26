@@ -19,7 +19,7 @@ const Portfolio = () => {
             id: 2,
             src: profileapi,
             title: "API Express",
-            description: "An application that is primarily used for backend operations. These operations include creating and updating user profiles, login and authentication, posting status updates, and viewing status update feeds. Django REST Framework, Nginx, and the inbuilt database SQLite defines the architechure of this application.",
+            description: "An application that is primarily used for backend operations. These operations include creating and updating user profiles, login and authentication, posting status updates, and viewing status update feeds. Django REST Framework, Nginx, and the inbuilt database SQLite defines the architechure of this application. Insomnia was used to test the application's funcitonality.",
             architectureLink: profileapi,
             codeLink: "https://github.com/inventandlearn/Profiles-Rest-Api"
         },
