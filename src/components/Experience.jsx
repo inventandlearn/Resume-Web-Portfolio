@@ -178,6 +178,11 @@ const tech = [
             <br />
             <br />
             <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
       <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
         Experience
       </p>
