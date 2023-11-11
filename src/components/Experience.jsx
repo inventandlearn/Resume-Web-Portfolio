@@ -22,6 +22,9 @@ import tailwind from '../assets/tailwind.png'
 import github from '../assets/github.png'
 import django from '../assets/django.png'
 import gitlab from '../assets/gitlab.jpg'
+import azure from '../assets/microsoftazure.png'
+import gcloud from '../assets/googlecloud.png'
+
 
 const Experience = () => {
 
@@ -164,6 +167,18 @@ const tech = [
         src: gitlab,
         title: 'GitLab',
         style: 'shadow-orange-500',
+    },
+    {
+        id: 24,
+        src: azure,
+        title: 'Microsoft Azure',
+        style: 'shadow-blue-200',
+    },
+    {
+        id: 25,
+        src: gcloud,
+        title: 'Google Cloud Platform',
+        style: 'shadow-yellow-500',
     },
 ]
 
