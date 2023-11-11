@@ -11,7 +11,7 @@ const Portfolio = () => {
             id: 1,
             src: tutorialapi,
             title: "Guide Guru",
-            description: "An application that showcases introductory tutorials and provides links to documentation for various frameworks and DevOps technologies. Bootstrap was used to build the front-end of the application and Django REST Framework along with PostgreSQL were used to build the back-end.",
+            description: "An application that showcases introductory bullet points and links to documentation, for learning of various frameworks and DevOps technologies. Bootstrap was used to build the front-end of the application and Django REST Framework along with PostgreSQL were used to build the back-end.",
             architectureLink: tutorialapi,
             codeLink: "https://github.com/inventandlearn/PostGres-Docker-pgAdmin-Insomnia---Docker-Tutorial-App-"
         },
