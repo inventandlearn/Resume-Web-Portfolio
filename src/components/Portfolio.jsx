@@ -29,7 +29,7 @@ const Portfolio = () => {
             title: "Recipe Rush",
             description: "An application that acts as a virtual recipe box. It handles creating and updating user profiles, changing passwords, creating recipes with titles, price points, cooking times, and tags like comfort food, vegan or dessert. Users can upload and view images once they are authenticated. Django REST Framework, Nginx, GitLab, Terraform, Docker, and AWS were used to build and scale this project.",
             architectureLink: recipeapi,
-            codeLink: "https://github.com/inventandlearn/Cloud-Recipe-Api-App"
+            codeLink: "https://github.com/inventandlearn/Recipe_Rush_AWS-DevOps"
 
         }
     ]
