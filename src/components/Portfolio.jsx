@@ -11,7 +11,7 @@ const Portfolio = () => {
             id: 1,
             src: tutorialapi,
             title: "Guide Guru",
-            description: "An application that showcases introductory bullet points and links to documentation, for learning of various frameworks and DevOps technologies. Bootstrap was used to build the front-end of the application and Django REST Framework along with PostgreSQL were used to build the back-end.",
+            description: "An application that details the basic conepts of various frameworks and DevOps technologies along with links to their official documentation. Bootstrap was used to build the front-end of the application and Django REST Framework along with PostgreSQL were used to build the back-end.",
             architectureLink: tutorialapi,
             codeLink: "https://github.com/inventandlearn/PostGres-Docker-pgAdmin-Insomnia---Docker-Tutorial-App-"
         },
@@ -19,7 +19,7 @@ const Portfolio = () => {
             id: 2,
             src: profileapi,
             title: "API Express",
-            description: "A RESTAPI that is capable of creating and updating user profiles, login and authentication, posting status updates, and viewing status update feeds. Django REST Framework, Nginx, and the inbuilt database SQLite defines the architechure of this application. Testing of the the application's funcitonality was done with Insomnia.",
+            description: "A RESTAPI used for creating and updating user profiles, login and authentication, posting status updates, and viewing status update feeds. Django REST Framework, Nginx, and the default Django database defines the architechure of this application. Testing of the the API's funcitonality was done with Insomnia.",
             architectureLink: profileapi,
             codeLink: "https://github.com/inventandlearn/Profiles-Rest-Api"
         },
@@ -27,7 +27,7 @@ const Portfolio = () => {
             id: 3,
             src: recipeapi,
             title: "Recipe Rush",
-            description: "A RESTAPI that acts as a virtual recipe box. It handles creating and updating user profiles, changing passwords, creating recipes with titles, price points, cooking times, and tags like comfort food, vegan or dessert. Users can upload and view images once they are authenticated. Django REST Framework, Nginx, GitLab, Terraform, Docker, and AWS were used to build and deploy this project.",
+            description: "A RESTAPI that acts as a virtual recipe box. It handles creating and updating user profiles, changing passwords, creating recipes with titles, price points, cooking times, and tags like comfort food, vegan or dessert. Users can upload and view images once they are authenticated. Django REST Framework, Nginx, GitLab, Terraform, Docker, and AWS were used to build and scale this project.",
             architectureLink: recipeapi,
             codeLink: "https://github.com/inventandlearn/Recipe_Rush_AWS-DevOps"
 
